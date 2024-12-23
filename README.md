@@ -1,4 +1,4 @@
-(https://github.com/gchristiansun/gchristiansun/issues/1#issue-2756394343)
+![Hii, I'm Christian](https://github.com/gchristiansun/gchristiansun/issues/1#issue-2756394343)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/g_christian_s) 
 
