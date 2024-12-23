@@ -1,5 +1,5 @@
 ## Hii there 👋🏻
-![Hii, I'm Christian](https://private-user-images.githubusercontent.com/167200722/398213031-96532498-1c54-4cbe-b1fd-38fba81ddf05.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ5NzM4NDgsIm5iZiI6MTczNDk3MzU0OCwicGF0aCI6Ii8xNjcyMDA3MjIvMzk4MjEzMDMxLTk2NTMyNDk4LTFjNTQtNGNiZS1iMWZkLTM4ZmJhODFkZGYwNS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIyM1QxNzA1NDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zNTJlY2Q0ZWRiOTZmYjNlMDFjM2MyODU2NmJkZDdiYTdhZjQ4YTZjZjBkZjg2ZmFjMjYxOTdkMWE1OTExMGRmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.2nHKiryseIByJ6zy4NGDC3EMZv2fgA6Bxly2Zz4YA0I)
+![Hii, I'm Christian](https://github.com/user-attachments/assets/96532498-1c54-4cbe-b1fd-38fba81ddf05)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/g_christian_s) 
 
