@@ -2,13 +2,13 @@
 ![Hii, I'm Christian](https://github.com/user-attachments/assets/96532498-1c54-4cbe-b1fd-38fba81ddf05)
 
 ### 🌐 Socials:
-<div style="align:center">
-<a href="https://instagram.com/g_christian_s" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:christian10rks@gmail.com">
-  <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<div align="center">
+  <a href="https://instagram.com/g_christian_s" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:christian10rks@gmail.com">
+    <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius:10px;"/>
+  </a>
 </div>
 
 ### 💻 Tech Stack:
