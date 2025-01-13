@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="mailto:christian10rks@gmail.com">
-  <img src="https://img.shields.io/badge/Email-fff?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 ### 💻 Tech Stack:
