@@ -1,7 +1,7 @@
-## 👋🏻 Hii there!
+#👋🏻 Hii there!
 ![Hii, I'm Christian](https://github.com/user-attachments/assets/96532498-1c54-4cbe-b1fd-38fba81ddf05)
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/g_christian_s) 
 [![Email](https://img.shields.io/badge/Email-%fff.svg?logo=gmail&logoColor=white)](https://gmail.com/christian10rks@gmail.com)
 
