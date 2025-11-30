@@ -7,7 +7,6 @@ I'm currently learning and diving deeper into:
 - 🌐 Web Development (Frontend & Backend)
 - 🤖 Machine Learning & AI fundamentals
 - 🧱 Software Engineering principles
-- ⚙️ Backend architecture & system design
 
 I love building things that are clean, functional, and maintainable.
 
