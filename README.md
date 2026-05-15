@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm <span style="color:#58a6ff;">Gregorius Christian Sunaryo</span></h1>
+<h1 align="left">Hey there! I'm <span style="color:#58a6ff;">Gregorius Christian Sunaryo</span></h1>
 
 ## [About Me]
 
